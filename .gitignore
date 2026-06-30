@@ -1,0 +1,14 @@
+# Ignore all files by default
+*
+
+# Allow directories
+!*/
+
+# Allow specific configuration and page files
+!index.html
+!poster_online.html
+!.gitignore
+
+# Allow all files in figure/ and logo/ directories
+!figure/**
+!logo/**
