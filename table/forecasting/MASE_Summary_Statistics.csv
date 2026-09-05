@@ -1,0 +1,6 @@
+Metric,Value
+Ensemble MASE,0.6411
+Baseline Average MASE,0.8961
+Best Baseline,0.7316
+Worst Baseline,1.1924
+Avg Improvement over Baselines %,39.77%

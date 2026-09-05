@@ -1,0 +1,11 @@
+Feature name,Feature type,Source,Lag structure,Leakage risk class
+lag_1,Continuous,Native Target,t-1,Low
+lag_2,Continuous,Native Target,t-2,Low
+lag_3,Continuous,Native Target,t-3,Low
+diff_1,Continuous,Native Target,(t-1)-(t-2),Low
+pct_change_1,Continuous,Native Target,pct_change(t-1),Low
+rolling_mean_3,Continuous,Native Target,mean(t-1..t-3),Low
+rolling_slope_3,Continuous,Native Target,slope(t-1..t-3),Low
+cross_min_lag1,Continuous,Layer B,min_others(t-1),Low
+cross_max_lag1,Continuous,Layer B,max_others(t-1),Low
+cross_pc1_lag1,Continuous,PCA Layer B,t-1,Low

@@ -1,0 +1,12 @@
+Model,Model_Short,Average MASE,Model Type,Improvement %,MASE Difference
+WeightedEnsemble,Ensemble,0.6411014216510775,Ensemble,0.0,0.0
+TemporalFusionTransformer,TFT,0.7316032313347384,Baseline,14.12,0.0905
+PatchTST,PatchTST,0.7607338761114761,Baseline,18.66,0.1196
+DeepAR,DeepAR,0.7920462401802045,Baseline,23.54,0.1509
+Chronos[autogluon__chronos-bolt-small],Chronos,0.8278069289519626,Baseline,29.12,0.1867
+DirectTabular,DirectTab,0.8573915207192063,Baseline,33.74,0.2163
+RecursiveTabular,RecTab,0.878557897543612,Baseline,37.04,0.2375
+DynamicOptimizedTheta,DynTheta,0.9129858901241867,Baseline,42.41,0.2719
+AutoETS,AutoETS,0.9494027565886298,Baseline,48.09,0.3083
+AutoARIMA,AutoARIMA,1.0578261580865504,Baseline,65.0,0.4167
+Naive,Naive,1.1924310122691717,Baseline,86.0,0.5513
