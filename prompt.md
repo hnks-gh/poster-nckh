@@ -32,7 +32,7 @@ All assets are located in: C:\Users\hoang\Downloads\poster
 **SECTION B: GENERAL INFORMATION (Next 10%)**
 - **Paper Title:** "From Retrospective Benchmarking to Anticipatory Policy: A Data Driven Framework for Governance Indexing and Forecasting Using the Viet Nam Provincial Governance and Public Administration Performance Index (PAPI)" (Center-aligned, massive font size, Navy Blue).
 - **Metadata Bar:** A beautifully styled banner or ribbon underneath the title containing:
-  - Project ID: XHNV.88
+  - Project ID: XHNV.17
   - Author: Hoang Ngoc Kim Son
   - Supervisor: Assoc. Prof. Luu Quoc Dat
 
