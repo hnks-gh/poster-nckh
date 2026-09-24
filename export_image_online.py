@@ -5,6 +5,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from PIL import Image
 
+Image.MAX_IMAGE_PIXELS = None
+
 def main():
     chrome_options = Options()
     chrome_options.add_argument("--headless=new")
