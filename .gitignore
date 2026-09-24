@@ -1,1 +1,16 @@
-poster_print.png
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary print files (> 100MB exceeds GitHub push limit)
+*.tif
+*.tiff
+dist/**/*.tif
+dist/**/*.tiff
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
