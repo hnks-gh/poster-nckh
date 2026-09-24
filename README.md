@@ -20,10 +20,13 @@ poster-nckh/
 │   │   ├── poster_print_800dpi.png    # 800 DPI PNG (26,488 x 37,429 px, ~991 MP)
 │   │   ├── poster_print_600dpi.tif    # 600 DPI TIFF (LZW Lossless, 138 MB)
 │   │   └── poster_print_800dpi.tif    # 800 DPI TIFF (LZW Lossless, 216 MB)
-│   ├── online/                        # Multi-format Web Distribution
-│   │   ├── poster_online.png          # 300 DPI PNG (4,756 x 7,720 px)
-│   │   ├── poster_online.webp         # WebP Format (High efficiency)
-│   │   └── poster_online.heif         # AVIF / HEIF Container
+│   ├── online/                        # Multi-format Web & Social Media Distribution
+│   │   ├── poster_online.png          # 300 DPI Lossless PNG (4,756 x 7,720 px, 4.80 MB)
+│   │   ├── poster_online.webp         # WebP text-preset (4,756 x 7,720 px, 1.77 MB)
+│   │   ├── poster_online.avif         # AV1 4:4:4 full chroma (4,756 x 7,720 px, 1.15 MB)
+│   │   ├── poster_online.heif         # Apple HEIF container (4,756 x 7,720 px, 1.15 MB)
+│   │   ├── poster_social.webp         # 2048px Lanczos WebP for social feeds (641 KB)
+│   │   └── poster_social.jpg          # 2048px Universal 4:4:4 JPEG for Facebook/LinkedIn (1.85 MB)
 │   └── eureka/                        # Euréka 2026 Poster Competition
 │       └── poster-eureka.png          # 300 DPI PNG (4,224 x 6,864 px, 8:13 Ratio)
 │

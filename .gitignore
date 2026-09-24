@@ -3,11 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Large binary print files (> 100MB exceeds GitHub push limit)
-*.tif
-*.tiff
-dist/**/*.tif
-dist/**/*.tiff
+# Large binary print files
+dist/print/
 
 # OS and Editor files
 .DS_Store
