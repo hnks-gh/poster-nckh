@@ -5,6 +5,13 @@ __pycache__/
 
 # Large binary print files
 dist/print/
+*.tif
+*.tiff
+
+# Large files (> 25MB)
+logo/vnu-logo.png
+logo/logo-vnu-caption.png
+logo/ueb-logo.png
 
 # OS and Editor files
 .DS_Store
